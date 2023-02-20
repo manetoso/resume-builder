@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Emmanuel Cortes",
+    "label": "Frontend Developer",
+    "image": "https://media.licdn.com/dms/image/C4E03AQH5yNNbUfEROA/profile-displayphoto-shrink_400_400/0/1629769704725?e=1678924800&v=beta&t=CKiR1KPte6FaEAFs8guG_WinLBPziy36rydxtL06uZQ",
+    "email": "emmanuel.cortes.to@gmail.com",
+    "phone": "(461) 122-1473",
+    "phoneUrl": "+524611221473",
+    "url": "https://www.ecortes.dev",
+    "summary": "I enjoy writing code as I find great satisfaction, in a nut shell and as I like to say, \"Making things work\".\nWhat I am more passionate about is frontend because I see it as an art form, always placing high emphasis in the user experience, therefore, creating not just a functional product but also pleasing to the user.\nAlways with a lot of energy to learn new things and glad to tech/pass on my knowledge to my teammates.",
+    "location": {
+      "address": "Queretaro, Queretaro Arteaga, Mexico",
+      "postalCode": "76148",
+      "city": "Queretaro",
+      "countryCode": "MEX",
+      "region": "Santiago de Queretaro"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "manetoso",
+        "url": "https://github.com/manetoso"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "emma-cortes",
+        "url": "https://www.linkedin.com/in/emma-cortes/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Solo Trucking",
+      "position": "Frontend Developer",
+      "startDate": "2022-07-31",
+      "highlights": [],
+      "summary": "Solo is a trucking company built for owner-operators. Solo drivers just choose from 500k loads available daily while the operations team handles everything else.\nDevelop and give maintenance to a custom website and track conversions info through Google Tag Manager and Google Ads. Develop and give maintenance to a new version of their mobile app to track their self-dispatching truckers.",
+      "url": "https://www.linkedin.com/company/solotrucking/",
+      "location": "Querétaro, Querétaro Arteaga, México"
+    },
+    {
+      "name": "ITNetworks",
+      "position": "Jr Frontend Developer",
+      "startDate": "2022-02-28",
+      "endDate": "2022-07-31",
+      "highlights": [],
+      "summary": "ITNetworks is a company that provides IT services that improve the competitiveness of companies.\nDevelop an app for the company AG Servicios Financieros (finance company), with this app they are able to manage their entire operation in a digital way, turning them into a Fin-tech company.",
+      "url": "https://www.linkedin.com/company/itnetworksmx/",
+      "location": "Celaya, Guanajuato, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico Nacional de Mexico en Celaya",
+      "area": "Computer Systems Engineering",
+      "url": "https://celaya.tecnm.mx/",
+      "studyType": "Engineering",
+      "startDate": "2017-08-31",
+      "endDate": "2022-06-30",
+      "score": "3.0",
+      "degree": "Bachelor's"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    },
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    },
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "React PRO: Lleva las bases al siguiente nivel",
+      "issuer": "Udemy",
+      "date": "2022-04-30",
+      "url": "https://www.udemy.com/certificate/UC-029781f1-cece-4531-b1ae-99531e922320/"
+    },
+    {
+      "name": "Master en CSS: Responsive, SASS, Flexbox, Grid y Bootstrap",
+      "issuer": "Udemy",
+      "date": "2021-08-31",
+      "url": "https://www.udemy.com/certificate/UC-430f50a2-277b-432c-9e31-80ac919b4063/"
+    },
+    {
+      "name": "React: Aplicaciones en tiempo real con Socket-io",
+      "issuer": "Udemy",
+      "date": "2021-08-31",
+      "url": "https://www.udemy.com/certificate/UC-936fc0cd-7d1f-45fe-96e7-c1317eaab5d0/"
+    },
+    {
+      "name": "React: De cero a experto (Hooks y MERN)",
+      "issuer": "Udemy",
+      "date": "2021-03-31",
+      "url": "https://www.udemy.com/certificate/UC-d95d7d22-941c-4003-b671-532e4d95f1a7/"
+    },
+    {
+      "name": "Introducción al Desarrollo Web II",
+      "issuer": "Google",
+      "date": "2020-12-31",
+      "url": "https://drive.google.com/file/d/1FCIaJGwgP651JZDNey2gBqguIZOXBfHw/view?usp=sharing"
+    },
+    {
+      "name": "Introducción al Desarrollo Web I",
+      "issuer": "Google",
+      "date": "2020-11-30",
+      "url": "https://drive.google.com/file/d/1lu8cA1craHj9FY6cpFBB0Zsr-r60YnWv/view?usp=sharing"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advance",
+      "keywords": ["HTML", "CSS", "JavaScript", "TypeScript"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Medium",
+      "keywords": ["React", "Vue", "React-Native"]
+    },
+    {
+      "name": "Management",
+      "level": "Medium",
+      "keywords": ["Git", "Scrum", "Jira"]
+    },
+    {
+      "name": "Design",
+      "level": "Entry",
+      "keywords": ["Figma", "Miro", "Adobe XD"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advance"
+    }
+  ]
+}
