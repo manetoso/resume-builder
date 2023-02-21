@@ -18,7 +18,7 @@ export const useValidateGist = () => {
     const isUrl = re.test(value)
 
     if (!isUrl || sleectValue === '') {
-      setError('You must enter a valid raw github gist url and select a resume')
+      setError('You must enter a valid raw github gist url and select a resume option')
       return
     }
 
