@@ -15,7 +15,8 @@ export function GistInput() {
       <select ref={selectRef}>
         <option value=''>Select an Option</option>
         <option value='resume-simple'>Simple Resume</option>
-        <option value='resume-anime'>Anime like Resume</option>
+        {/* TODO: REMAKE IT FOR BETTER REDABILITY FOR ATS */}
+        {/* <option value='resume-anime'>Anime like Resume</option> */}
         <option value='resume-news'>News like Resume</option>
       </select>
       <div className='flex flex-col'>
