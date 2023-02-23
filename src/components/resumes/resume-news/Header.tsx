@@ -3,6 +3,7 @@ import { deleteWWW } from '@/utils/utils'
 
 export function Header({
   email,
+  label,
   name,
   phone,
   phoneUrl,
@@ -19,18 +20,25 @@ export function Header({
           <li
             key={index}
             className={`font-black uppercase tracking-tighter text-9xl ${
-              index % 2 === 0 ? 'text-right' : 'text-left test'
+              index % 2 === 0 ? 'text-right' : 'text-left outline-text'
             }`}
           >
             <span>{entry}</span>
           </li>
         ))}
+        <li
+          className={`font-bold text-5xl ${
+            names.length % 2 === 0 ? 'text-left' : 'text-right'
+          }`}
+        >
+          <span>{label}</span>
+        </li>
       </ul>
       {/* LINKS */}
       <ul
         className={`absolute text-xs ${
           names.length % 2 === 0 ? 'text-right right-0' : 'text-left left-0'
-        } ${names[names.length - 1].length <= 6 ? 'bottom-8' : 'top-[100%]'}`}
+        } ${names[names.length - 1].length <= 6 ? 'bottom-20' : 'top-[100%]'}`}
       >
         <li>
           <a
